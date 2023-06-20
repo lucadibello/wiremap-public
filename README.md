@@ -1,4 +1,4 @@
-# Wiremap <!-- omit in toc -->
+# Wiremap - Redacted version <!-- omit in toc -->
 
 <p align="center">
 	<picture>
