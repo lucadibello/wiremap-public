@@ -44,7 +44,7 @@ To run the project, you need to follow these steps:
 ### 2.1. Clone the repository
 
 ```bash
-git clone git@github.com:lucadibello/Wiremap.git
+git clone <REDACTED>
 cd Wiremap
 ```
 
