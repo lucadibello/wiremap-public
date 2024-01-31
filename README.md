@@ -52,6 +52,8 @@ Keywords: *wiremap, network analysis, microservices, scalability, security*
 
 > IMPORTANT NOTICE: Due to the confidential nature of the project, we redacted the video to remove any sensitive information. Please, refer to the [showcase](./doc/showcase/README.md) directory to have a glimpse of the project.
 
+![Scan report example](./doc/assets/images/screenshots/scan.png)
+
 ## 3. System architecture
 
 <p align="center">
